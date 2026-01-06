@@ -3,6 +3,8 @@
     {
       "location": "games/2048.swf",
       "title": "2048",
+      "author": "Tom Fulp and Dan Paladin",
+      "authorLink": "https://www.newgrounds.com",
       "type": "Game"
     },
     {
