@@ -40,29 +40,30 @@
       "authorLink": "https://www.thebehemoth.com",
       "type": "Animation"
     },
+
     {
-      "location": "games/2048.swf",
-      "title": "2048",
+      "location": "swfs/alien_hominid.swf",
+      "title": "Alien Hominid",
       "author": "Tom Fulp and Dan Paladin",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
     },
     {
-      "location": "games/flyguy.swf",
+      "location": "swfs/flyguy.swf",
       "title": "FlyGuy",
       "author": "Trevor van Meter",
       "authorLink": "https://www.heytvm.com",
       "type": "Game"
     },
     {
-      "location": "games/marvin_spectrum.swf",
+      "location": "swfs/marvin_spectrum.swf",
       "title": "Marvin Spectrum",
       "author": "Bryan Singh",
       "authorLink": "https://www.hotbryan.com",
       "type": "Game"
     },
     {
-      "location": "games/wasted_sky.swf",
+      "location": "swfs/wasted_sky.swf",
       "title": "Wasted Sky",
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
